@@ -1,8 +1,8 @@
-#Symfony 2 Vagrant Development setup
+# Symfony 2 Vagrant Development setup
 
 
 ## Installation
-####This setup is based and tested with Ubuntu Precise 64 bit base box, with Vagrant 1.0.5 version (should be working with 1.1)
+#### This setup is based and tested with Ubuntu Precise 64 bit base box, with Vagrant 1.0.5 version (should be working with 1.1)
 
 * Install Vagrant using the [installation instructions](http://docs.vagrantup.com/v2/installation/index.html)
 
@@ -63,10 +63,10 @@
 * [Gustavo Schirmer](https://github.com/hurrycaner) - for contribution
 
 ## Hints
-####Startup speed
+#### Startup speed
 To speed up the startup process use ```$ vagrant up --no-provision``` (thanks to [caramba1337](https://github.com/caramba1337))
 
-####Install Symfony Standard edition
+#### Install Symfony Standard edition
 * SSH to vagrant ```$ vagrant ssh```
 * Clone symfony standard edition to somewhere temporary
     
